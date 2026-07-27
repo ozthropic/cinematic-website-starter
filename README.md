@@ -39,10 +39,10 @@ This repository contains only the public cinematic homepage. It does **not** con
    cd cinematic-website-starter
    ```
 
-2. Install the locked dependencies:
+2. Install the dependencies:
 
    ```bash
-   npm ci
+   npm install
    ```
 
 3. Create your local environment file:
@@ -140,10 +140,10 @@ git clone https://github.com/Ozhtropic/cinematic-website-starter.git
 cd cinematic-website-starter
 ```
 
-۲. وابستگی‌های قفل‌شده را نصب کن:
+۲. وابستگی‌ها را نصب کن:
 
 ```bash
-npm ci
+npm install
 ```
 
 ۳. فایل محیط محلی را بساز:
