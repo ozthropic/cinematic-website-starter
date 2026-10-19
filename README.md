@@ -35,7 +35,7 @@ This repository contains only the public cinematic homepage. It does **not** con
 1. Clone the repository and enter the project:
 
    ```bash
-   git clone https://github.com/Ozhtropic/cinematic-website-starter.git
+   git clone https://github.com/ozthropic/cinematic-website-starter.git
    cd cinematic-website-starter
    ```
 
@@ -136,7 +136,7 @@ The source code is available under the [MIT License](LICENSE). The Persian notic
 ۱. مخزن را دریافت کن و وارد پوشهٔ پروژه شو:
 
 ```bash
-git clone https://github.com/Ozhtropic/cinematic-website-starter.git
+git clone https://github.com/ozthropic/cinematic-website-starter.git
 cd cinematic-website-starter
 ```
 
